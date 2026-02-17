@@ -1,4 +1,4 @@
-# 📚 Sistem Informasi Perpustakaan Seskoal (SIPER-S)
+# 📚 Sistem Informasi Perpustakaan Seskoal (PERPUSESKOAL)
 
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
@@ -23,8 +23,8 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Backend:** PHP 8.x, Laravel 10.x/11.x
-- **Frontend:** Blade Templating, Bootstrap 4/5, AdminLTE / SB Admin 2
+- **Backend:** PHP 8.x, Laravel 12.x
+- **Frontend:** Blade Templating, Bootstrap5, SB Admin 2, SweetAlert2
 - **Database:** MySQL / MariaDB
 - **Authentication:** Laravel Sanctum (API) & Laravel UI/Breeze (Web)
 
